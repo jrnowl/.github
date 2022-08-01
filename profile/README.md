@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-#### jrnowl is in development! please check on us back soon
+#### jrnowl is in development but you can visit our app here www.jrnowl.com
 <!--
 
 **Here are some ideas to get you started:**
