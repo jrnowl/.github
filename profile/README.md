@@ -13,8 +13,3 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
-
-Credits:
-
-The jrnowl logo is derived from an image by Peter Trimming from Croydon, England (CC BY 2.0)
